@@ -1,6 +1,9 @@
-# to do
+## to do
 
-## throughout Ib course:
+### important concepts:
+* encapsulation = black box abstraction
+
+### throughout Ib course:
 * supplement with online resources:
     * edabit.com
     * freecodecamp.org
@@ -8,12 +11,12 @@
     * codewars.com
     
 - [ ] flashcards: go back through all lectures; for all important concepts, write the term, a plain english definition, and provide simple coding example
-- [ ] b
+- [x] encapsulation = black box abstraction
 - [ ] c
 - [ ] d
 - [ ] e
 
-## resources
+### resources
 * [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 * jQuery
