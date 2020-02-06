@@ -13,7 +13,7 @@
 - [ ] flashcards: go back through all lectures; for all important concepts, write the term, a plain english definition, and provide simple coding example
 - [x] encapsulation = black box abstraction
 - [ ] composition / inheritance (__extends__ === is-a-type-of)
-- [ ] d
+- [ ] polymorphism
 - [ ] e
 
 ### resources
