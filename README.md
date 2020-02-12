@@ -21,7 +21,7 @@
 
 ### resources
 * [markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 * jQuery
     * [jQuery library dl/cdn](code.jquery.com)
     * [jQuery cheat sheet](https://oscarotero.com/jquery/)
+* [shapes in CSS](https://css-tricks.com/the-shapes-of-css/)
