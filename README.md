@@ -29,3 +29,6 @@
 * [shapes in CSS](https://css-tricks.com/the-shapes-of-css/)
 * [sqlzoo](https://sqlzoo.net/)
 * [diagonal css](https://9elements.com/blog/pure-css-diagonal-layouts/)
+* [esri.com](esri.com)
+* [netlify.com](netlify.com)
+* [payscale.com](payscale.com)
