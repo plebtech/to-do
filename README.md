@@ -26,6 +26,8 @@
 * jQuery
     * [jQuery library dl/cdn](code.jquery.com)
     * [jQuery cheat sheet](https://oscarotero.com/jquery/)
+* react
+    * [https://joshwcomeau.com/tutorials/react](https://joshwcomeau.com/tutorials/react)
 * [shapes in CSS](https://css-tricks.com/the-shapes-of-css/)
 * [sqlzoo](https://sqlzoo.net/)
 * [diagonal css](https://9elements.com/blog/pure-css-diagonal-layouts/)
